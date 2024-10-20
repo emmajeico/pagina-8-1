@@ -1,0 +1,55 @@
+/* Temas del segundo período*/
+
+.texto{
+   
+    font-size: 40px;
+    padding-top: 140px;
+    text-align: justify;
+    color: rgb(244, 237, 237);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.principal{
+   display: flex;
+     
+}
+body{
+    background-image: url("fondo1.jpg");
+   
+
+}
+.titulo{
+font-size: 60px;
+color: rgb(255, 255, 255);
+text-align: center;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.img1{
+    height: 193px;
+    width: 300px;
+    background-image: url("circuito\ electrico.png");
+    background-repeat: no-repeat;
+    float: right;
+}
+.img2{
+    height: 270px;
+    width: 270px;
+    background-image: url("bulimia.jpeg");
+    background-repeat: no-repeat;
+    float: left;
+}
+.img3{
+    height: 870px;
+    width: 870px;
+    background-image: url("anorexia.jpeg");
+    background-repeat: no-repeat;
+    float: right;
+}
+.img4{
+    height: 700px;
+    width: 1300px;
+    background-image: url("mapa\ conceptual\ 2p.jpeg");
+    background-repeat: no-repeat;
+    float: right;
+}
