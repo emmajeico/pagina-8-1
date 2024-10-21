@@ -71,7 +71,7 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 .img7{
     height: 700px;
     width: 1300px;
-    background-image: url("");
+    background-image: url("val.jpeg");
     background-repeat: no-repeat;
     float: right;
 }
@@ -132,10 +132,18 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     float: right;
 }
 
-.img14{
+.img16{
     height: 700px;
     width: 1300px;
     background-image: url("6.jpeg");
+    background-repeat: no-repeat;
+    float: right;
+}
+
+.img15{
+    height: 1200px;
+    width: 1500px;
+    background-image: url("mapa\ 3\ periodo.png");
     background-repeat: no-repeat;
     float: right;
 }
